@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there, I'm Domen 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=perkzen&show_icons=true&theme=radical)
+[![Perkzen's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/perkzen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/perkzen/github-readme-stats)
 
