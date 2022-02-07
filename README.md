@@ -1,10 +1,8 @@
 # Hi there, I'm Domen 👋
 
-<img align="center" width="50px" heigth="50px" src="https://user-images.githubusercontent.com/73199603/152836160-cc06c30f-35ef-4397-8bd8-8bd9be463ca2.png"/>
-
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=perkzen"/>
-<img width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=perkzen"/>
+<img align="left" width="150px" heigth="150px" src="https://user-images.githubusercontent.com/73199603/152836160-cc06c30f-35ef-4397-8bd8-8bd9be463ca2.png"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=perkzen"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=perkzen"/>
 
 
 
