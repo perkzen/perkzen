@@ -2,7 +2,7 @@
 
 Hi I'm Domen, a 20 year old full-stack software developer. Curerently I'm studiyig computer science at Faculty of Electrical Engineering and Computer Science, University of Maribor. I in free time i like to work on interesting projects.
 
-Feel free to contact me 😎
+Feel free to contact me 😊
 
 [![Linkedin Badge](https://img.shields.io/badge/-Domen_Pekro-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domen-perko-657b59219/) 
   [![Mail Badge](https://img.shields.io/badge/-perko.domen@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:perko.domen@gmail.com)
