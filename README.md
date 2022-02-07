@@ -1,12 +1,13 @@
 # Hi there, I'm Domen 👋
-<img  width="150px" heigth="150px" src="https://user-images.githubusercontent.com/73199603/152836160-cc06c30f-35ef-4397-8bd8-8bd9be463ca2.png"/>
 
 
 
+ [![Linkedin Badge](https://img.shields.io/badge/-Domen_Pekro-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) 
+  [![Mail Badge](https://img.shields.io/badge/-perko.domen@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:perko.domen@gmail.com)
 
-<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=perkzen"/>
-<img  align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=perkzen"/>
 
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=perkzen"/>
+<img  align="left"  width="47%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=perkzen"/>
 
 
 
