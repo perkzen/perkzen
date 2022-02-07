@@ -10,7 +10,7 @@ Feel free to contact me 😊
 
 
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=perkzen"/>
-<img  align="left"  width="47%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=perkzen"/>
+<img  align="left"  width="47%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=perkzen&layout=compact"/>
 
 
 
