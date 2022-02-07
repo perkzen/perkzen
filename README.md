@@ -2,7 +2,7 @@
 
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-Domen_Pekro-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Domen_Pekro-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domen-perko-657b59219/) 
   [![Mail Badge](https://img.shields.io/badge/-perko.domen@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:perko.domen@gmail.com)
 
 
