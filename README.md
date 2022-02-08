@@ -6,7 +6,7 @@ Feel free to contact me 😊
 
 [![Linkedin Badge](https://img.shields.io/badge/-Domen_Pekro-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domen-perko-657b59219/) 
   [![Mail Badge](https://img.shields.io/badge/-perko.domen@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:perko.domen@gmail.com)
- [![Discord Badge](https://img.shields.io/badge/-perkzen2079-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white)](https://discord.com/users/216222680955879424) 
+ [![Discord Badge](https://img.shields.io/badge/-Perkzen-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white)](https://discord.com/users/216222680955879424) 
 
 
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=perkzen"/>
