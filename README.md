@@ -1,6 +1,6 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hi I'm Domen, a 20 year old full-stack software developer. I'm currently studying computer science at Faculty of Electrical Engineering and Computer Science, University of Maribor. In my free time I like to work on interesting projects.
+I'm Domen, a 20 year old full-stack software developer. I'm currently studying computer science at Faculty of Electrical Engineering and Computer Science, University of Maribor. In my free time I like to work on interesting projects.
 
 Feel free to contact me 😊
 
