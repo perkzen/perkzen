@@ -9,12 +9,16 @@ Feel free to contact me 😊
  [![Discord Badge](https://img.shields.io/badge/-Perkzen-7289da?style=flat&labelColor=7289da&logo=discord&logoColor=white)](https://discord.com/users/216222680955879424) 
 
 
+| ![Domen Perko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=perkzen&count_private=true&show_icons=true) | ![Domen Perko's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perkzen&custom_title=Domen%20Perko%27s%20Most%20Used%20Languages&langs_count=8&layout=compact)  	|
+| ------------- | ------------- |
+
+<!--
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=perkzen"/>
 
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perkzen&layout=compact"/>
 
 <img  width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=perkzen&" alt="perkzen" />
-
+-->
 
 <!-- 
 ## Most frequently used tehchnologies
