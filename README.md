@@ -19,18 +19,15 @@ I'm Domen, a 21 year old full-stack software developer. I'm currently studying c
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-
+<!---
 
 ## Stats 
 
-| ![Domen Perko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=perkzen&count_private=true&show_icons=true) | ![Domen Perko's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perkzen&custom_title=Domen%20Perko%27s%20Most%20Used%20Languages&langs_count=8&layout=compact)  	|
-| ------------- | ------------- |
+ ![Domen Perko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=perkzen&count_private=true&show_icons=true)  ![Domen Perko's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perkzen&custom_title=Domen%20Perko%27s%20Most%20Used%20Languages&langs_count=8&layout=compact)  	
 
-
+-->
 
 ## Contact info
-
-Feel free to contact me 😊
 
 [![Linkedin Badge](https://img.shields.io/badge/-Domen_Pekro-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domen-perko-657b59219/) 
   [![Mail Badge](https://img.shields.io/badge/-perko.domen@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:perko.domen@gmail.com)
