@@ -24,10 +24,6 @@ I'm Domen, a 21 year old full-stack software developer. I'm currently studying c
 
 
 ## Stats 
-<a href="http://www.github.com/d"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=perkzen&bg_color=000000&color=ffffff&line=ef4444&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<!---
-
-## Stats 
 
  ![Domen Perko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=perkzen&count_private=true&show_icons=true)  ![Domen Perko's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perkzen&custom_title=Domen%20Perko%27s%20Most%20Used%20Languages&langs_count=8&layout=compact)  	
 
