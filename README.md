@@ -2,6 +2,7 @@
 
 I'm Domen, a 21 year old full-stack software developer. I'm currently studying computer science at Faculty of Electrical Engineering and Computer Science, University of Maribor. In my free time I like to work on interesting projects.
 
+<!--
 ## Technologies
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -21,6 +22,7 @@ I'm Domen, a 21 year old full-stack software developer. I'm currently studying c
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
+-->
 
 
 ## Contact info
