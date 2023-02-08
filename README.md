@@ -1,4 +1,4 @@
-# Hi there 
+# About me
 
 Hi, there I'm Domen. I'm a software developer from Slovenia with a passion for creating innovative and practical projects. My expertise lies in Full Stack Development and my favorite programming language is Typescript.
 
