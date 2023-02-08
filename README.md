@@ -1,6 +1,10 @@
 # Hi there 
 
-I'm Domen, a 21 year old full-stack software developer. I'm currently studying computer science at Faculty of Electrical Engineering and Computer Science, University of Maribor. In my free time I like to work on interesting projects.
+Hi, there I'm Domen. I'm a software developer from Slovenia with a passion for creating innovative and practical projects. My expertise lies in Full Stack Development and my favorite programming language is Typescript.
+
+My journey with coding began in 2020 and I have been constantly learning and growing ever since. I'm fond of technologies like Typescript, Next.js and TailwindCSS , which I believe make development a lot easier and fun. I take pride in being able to learn and apply new technologies in a quick and effective manner. My goal is to continue to expand my knowledge and experience in the industry while delivering high-quality work that meets the needs of my clients.
+
+When I'm not coding, I enjoy playing video games or working out at the gym. I believe that a healthy balance between work and leisure is essential for maintaining productivity and creativity. I'm always on the lookout for new challenges and opportunities to learn and grow as a software developer.
 
 <!--
 ## Technologies
