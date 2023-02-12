@@ -4,7 +4,7 @@ Hi, there I'm Domen. I'm a software developer from Slovenia with a passion for c
 
 My journey with coding began in 2020 and I have been constantly learning and growing ever since. I'm fond of technologies like Typescript, Next.js and TailwindCSS , which I believe make development a lot easier and fun. I take pride in being able to learn and apply new technologies in a quick and effective manner. My goal is to continue to expand my knowledge and experience in the industry while delivering high-quality work that meets the needs of my clients.
 
-When I'm not coding, I enjoy playing video games or working out at the gym. I believe that a healthy balance between work and leisure is essential for maintaining productivity and creativity. I'm always on the lookout for new challenges and opportunities to learn and grow as a software developer.
+I'm always on the lookout for new challenges and opportunities to learn and grow as a software developer.
 
 <!--
 ## Technologies
