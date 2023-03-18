@@ -1,5 +1,7 @@
 
-Hi, there I'm Domen. I'm a software developer from Slovenia with a passion for creating innovative and practical projects. My expertise lies in Full Stack Development and my favorite programming language is Typescript. I take pride in being able to learn and apply new technologies in a quick and effective manner. My goal is to continue to expand my knowledge and experience in the industry while delivering high-quality work that meets the needs of my clients.
+Hi, there I'm Domen. I'm a software developer from Slovenia with a passion for creating innovative and practical projects. My expertise lies in <strong>Full Stack Development</strong> and my favorite programming language is Typescript. 
+
+I take pride in being able to learn and apply new technologies in a quick and effective manner. My goal is to continue to expand my knowledge and experience in the industry while delivering high-quality work that meets the needs of my clients.
 
 I'm always on the lookout for new challenges and opportunities to learn and grow as a software developer.
 
