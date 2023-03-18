@@ -6,6 +6,20 @@ My journey with coding began in 2020 and I have been constantly learning and gro
 
 I'm always on the lookout for new challenges and opportunities to learn and grow as a software developer.
 
+#### Technoglogies
+<div>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="32px" height="32px"/>
+   &nbsp&nbsp&nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" width="32px" height="32px"/>
+    &nbsp&nbsp&nbsp
+  <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="32px" height="32px"/>
+    &nbsp&nbsp&nbsp
+  <img src="https://docs.nestjs.com/assets/logo-small.svg" width="32px" height="32px"/>
+    &nbsp&nbsp&nbsp
+  <img src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" width="32px" height="32px"/>
+</div>
+
+
 <!--
 ## Technologies
 <p align="left">
@@ -29,7 +43,7 @@ I'm always on the lookout for new challenges and opportunities to learn and grow
 -->
 
 
-## Contact info
+### Contact info
 
 [![Linkedin Badge](https://img.shields.io/badge/-Domen_Perko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domen-perko-657b59219/) 
   [![Mail Badge](https://img.shields.io/badge/-perko.domen@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:perko.domen@gmail.com)
