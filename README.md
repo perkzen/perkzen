@@ -5,7 +5,7 @@ I take pride in being able to learn and apply new technologies in a quick and ef
 
 I'm always on the lookout for new challenges and opportunities to learn and grow as a software developer.
 
-#### Technoglogies
+#### Technologies
 <div>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="32px" height="32px"/>
    &nbsp&nbsp&nbsp
@@ -17,7 +17,7 @@ I'm always on the lookout for new challenges and opportunities to learn and grow
     &nbsp&nbsp&nbsp
   <img src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" width="32px" height="32px"/>
       &nbsp&nbsp&nbsp
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/chatgpt-icon.svg" width="32px" height="32px"/>
+  <img src="https://logos-download.com/wp-content/uploads/2022/06/ChatGPT_Logo.png" width="32px" height="32px"/>
 </div>
 
 
