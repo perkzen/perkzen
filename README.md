@@ -18,6 +18,8 @@ I'm always on the lookout for new challenges and opportunities to learn and grow
   <img src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" width="32px" height="32px"/>
       &nbsp&nbsp&nbsp
   <img src="https://logos-download.com/wp-content/uploads/2022/06/ChatGPT_Logo.png" width="32px" height="32px"/>
+     &nbsp&nbsp&nbsp
+  <img src="https://github.com/perkzen/perkzen/assets/73199603/bfb26379-a034-4746-a24e-8ac78d8fc29c" width="32px" height="32px"/>
 </div>
 
 
