@@ -19,6 +19,7 @@ I'm always on the lookout for new challenges and opportunities to learn and grow
       &nbsp&nbsp&nbsp
   <img src="https://logos-download.com/wp-content/uploads/2022/06/ChatGPT_Logo.png" width="32px" height="32px"/>
      &nbsp&nbsp&nbsp
+     <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="32px" height="32px"/>
 </div>
 
 
