@@ -16,8 +16,6 @@ I'm always on the lookout for new challenges and opportunities to learn and grow
   <img src="https://docs.nestjs.com/assets/logo-small.svg" width="32px" height="32px"/>
     &nbsp&nbsp&nbsp
   <img src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" width="32px" height="32px"/>
-      &nbsp&nbsp&nbsp
-  <img src="https://logos-download.com/wp-content/uploads/2022/06/ChatGPT_Logo.png" width="32px" height="32px"/>
      &nbsp&nbsp&nbsp
      <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="32px" height="32px"/>
 </div>
