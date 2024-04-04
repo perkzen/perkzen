@@ -13,82 +13,78 @@ I'm a software developer based in Slovenia, Europe with expertise in **Full Stac
 
 ## Technologies
 
-#### Frontned
+#### Frontend
 
 <table>
     <tr>
-        <td align='center' width='84.6px'>
-            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/>
+        <td align='center' width='64px'>
+            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="30" height="30"/>
             </a>
         </td>
-        <td align='center' width='84.6px'>
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
+        <td align='center' width='64px'>
+            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30"/>
             </a>
         </td>
-        <td align='center' width='84.6px'>
-            <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=next" alt="nextjs" width="40" height="40"/>
+        <td align='center' width='64px'>
+            <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=next" alt="nextjs" width="30" height="30"/>
             </a>
         </td>
-        <td align='center' width='84.6px'>
-            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+        <td align='center' width='64px'>
+            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="30" height="30"/>
             </a>
         </td>
-        <td align='center' width='84.6px'>
-            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+        <td align='center' width='64px'>
+            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="30" height="30"/>
             </a>
         </td>
     </tr>
 </table>
 
-
-
 #### Backend
 
 <table>
    <tr>
-          <td align='center' width='84.6px'>
-        <a href="https://golang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=golang" alt="Golang" width="40" height="40"/>
+          <td align='center' width='64px'>
+        <a href="https://golang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=golang" alt="Golang" width="30" height="30"/>
         </a>
     </td>
-        <td align='center' width='84.6px'>
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/>
+        <td align='center' width='64px'>
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="Express" width="30" height="30"/>
         </a>
     </td>
-    <td align='center' width='84.6px'>
-        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nest" alt="Nest.js" width="40" height="40"/>
+    <td align='center' width='64px'>
+        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nest" alt="Nest.js" width="30" height="30"/>
         </a>
     </td>
-    <td align='center' width='84.6px'>
-        <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+    <td align='center' width='64px'>
+        <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="Java" width="30" height="30"/>
         </a>
     </td>
-    <td align='center' width='84.6px'>
-        <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="40" height="40"/>
+    <td align='center' width='64px'>
+        <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="30" height="30"/>
         </a>
     </td>
 </tr>
 </table>
 
-
 #### Databases
 
-
- <table>
-       <tr>
-        <td align='center' width='84.6px'>
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+<table>
+   <tr>
+        <td align='center' width='64px'>
+            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="30" height="30"/>
             </a>
         </td>
-        <td align='center' width='84.6px'>
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
+        <td align='center' width='64px'>
+            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="30" height="30"/>
             </a>
         </td>
-        <td align='center' width='84.6px'>
-            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"/>
+        <td align='center' width='64px'>
+            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="30" height="30"/>
             </a>
         </td>
-        <td align='center' width='84.6px'>
-            <a href="[https://www.mysql.com/](https://redis.io/)" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
+        <td align='center' width='64px'>
+            <a href="[https://www.mysql.com/](https://redis.io/)" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="30" height="30"/>
             </a>
         </td>
     </tr>
@@ -98,20 +94,20 @@ I'm a software developer based in Slovenia, Europe with expertise in **Full Stac
 
 <table>
   <tr>
-    <td align='center' width='84.6px'>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+    <td align='center' width='64px'>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/>
         </a>
     </td>
-            <td align='center' width='84.6px'>
-        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/>
+            <td align='center' width='64px'>
+        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="30" height="30"/>
         </a>
     </td>
-    <td align='center' width='84.6px'>
-        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
+    <td align='center' width='64px'>
+        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="30" height="30"/>
         </a>
     </td>
-    <td align='center' width='84.6px'>
-        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="40" height="40"/>
+    <td align='center' width='64px'>
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="30" height="30"/>
         </a>
     </td>
 </tr>
@@ -119,25 +115,22 @@ I'm a software developer based in Slovenia, Europe with expertise in **Full Stac
 
 #### Platforms
 
-
-  <table>
+<table>
    <tr>
-    <td align='center' width='84.6px'>
-        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
+    <td align='center' width='64px'>
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="30" height="30"/>
         </a>
     </td>
-    <td align='center' width='84.6px'>
-        <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/>
+    <td align='center' width='64px'>
+        <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="30" height="30"/>
         </a>
     </td>
-    <td align='center' width='84.6px'>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
+    <td align='center' width='64px'>
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="30" height="30"/>
         </a>
     </td>
 </tr>
-  </table>
-
-
+</table>
 
 
   
