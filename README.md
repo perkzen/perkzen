@@ -23,6 +23,7 @@ I'm a software developer based in Slovenia, Europe with expertise in **Full Stac
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nest" alt="Nest.js" width="30" height="30"/></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="Java" width="30" height="30"/></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="30" height="30"/></a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="30" height="30"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="30" height="30"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="30" height="30"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="30" height="30"/></a>
@@ -30,7 +31,7 @@ I'm a software developer based in Slovenia, Europe with expertise in **Full Stac
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="30" height="30"/></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="30" height="30"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="30" height="30"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="30" height="30"/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="30" height="30"/></a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="30" height="30"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="30" height="30"/></a>
