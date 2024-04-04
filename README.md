@@ -6,7 +6,7 @@ I'm a software developer based in Slovenia, Europe with expertise in **Full Stac
 
 - 🎓 Currently pursuing a Master's degree in Informatics
 - 💻 Skilled in Full Stack Development
-- 🤖 Enthusiastic about machine learning engineering
+- 🤖 ML engineering enthusiast
 - 🚀 Quick and effective learner of new technologies
 - 🌱 Always looking for new challenges and opportunities to learn and grow
 
