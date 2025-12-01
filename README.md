@@ -1,13 +1,9 @@
-# Hi there, I'm Domen! 👋
+<pre>
+💻 <strong>Full Stack Software Engineer</strong>
+📌 Location: Maribor, Slovenia
+⭐ Experties in Software Architecture, Machine Learning and Web Developemnt
+</pre>
 
-I'm a software developer based in Slovenia, Europe with expertise in **Full Stack Development**.
-
-## About Me
-
-- 💻 Skilled in Full Stack Development
-- 🤖 ML engineering enthusiast
-- 🚀 Quick and effective learner of new technologies
-- 🌱 Always looking for new challenges and opportunities to learn and grow
 
 
 ### Technologies
@@ -32,10 +28,7 @@ I'm a software developer based in Slovenia, Europe with expertise in **Full Stac
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="30" height="30"/></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="30" height="30"/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="30" height="30"/></a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="30" height="30"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="30" height="30"/></a>
 
-  
 
 <!--
 
