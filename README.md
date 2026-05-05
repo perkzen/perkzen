@@ -1,4 +1,6 @@
-<pre>
+
+Sup 👋
+<!-- <pre>
 💻 <strong>Full Stack Software Engineer</strong>
 📌 Location: Maribor, Slovenia
 ⭐ Experties in Software Architecture, Machine Learning and Web Developemnt
@@ -6,9 +8,9 @@
 
 
 
-### Technologies
+### Technologies -->
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="30" height="30"/></a> 
+<!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="30" height="30"/></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="React" width="30" height="30"/></a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=next" alt="nextjs" width="30" height="30"/></a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="30" height="30"/></a> 
@@ -27,7 +29,7 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="30" height="30"/></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="30" height="30"/></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn" width="30" height="30"/></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="30" height="30"/></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="30" height="30"/></a> -->
 
 
 <!--
